@@ -10,7 +10,7 @@
 
 - 💬 Let's talk about **ReactJS, ReactNative, Typescript, Javascript, HTML, CSS**!
 
-- ⚡ Fun fact **I LOVE to buy musical instruments 🎸🎹🎤**
+- ⚡ Fun fact: **I LOVE to buy musical instruments 🎸🎹🎤**
 
 
 
