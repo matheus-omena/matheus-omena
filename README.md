@@ -38,8 +38,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="500em" src="https://github-readme-stats.vercel.app/api?username=matheus-omena&show_icons=true&theme=vision-friendly-dark" alt="matheus-omenas's stats"/>
-<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-omena&layout=compact&theme=vision-friendly-dark" alt="matheus-omena's most languages"/>
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=matheus-omena&show_icons=true&theme=vision-friendly-dark" alt="matheus-omenas's stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-omena&layout=compact&theme=vision-friendly-dark" alt="matheus-omena's most languages"/>
 </p>
 
 
