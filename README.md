@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working at [Cash.in](https://www.cashin.com.br/)
 
-- 🌱 I’m currently creating the [Where's The Money?](https://github.com/matheus-omena/whereisthemoney-webui/tree/master/web-ui) project
+- 🌱 I’m currently creating the [Where's The Money?](https://https://github.com/matheus-omena/whereisthemoney-web-ui) project
 
 - 💬 Let's talk about **ReactJS, ReactNative, Typescript, Javascript, HTML, CSS**!
 
