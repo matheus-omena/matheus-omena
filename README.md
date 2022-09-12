@@ -4,7 +4,7 @@
 
 - 🔥 Front-end developer, UX/UI enthusiast, a christian guy and Noah's father
 
-- 🔭 I’m currently working at [Sol-IoP]
+- 🔭 I’m currently working at [Sol-IoP](https://www.linkedin.com/company/somosasol/mycompany/)
 
 - 🌱 I’m currently creating the [Where's The Money?](https://https://github.com/matheus-omena/whereisthemoney-web-ui) project
 
