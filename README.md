@@ -4,9 +4,9 @@
 
 - 🔥 Front-end developer, UX/UI enthusiast, a christian guy and Noah's father
 
-- 🔭 I’m currently working at [Sol-IoP](https://www.linkedin.com/company/somosasol/mycompany/)
+- 🔭 I’m currently working at [EMS](https://www.ems.com.br/)
 
-- 🌱 I’m currently creating the [Where's The Money?](https://https://github.com/matheus-omena/whereisthemoney-web-ui) project
+- 🌱 I’m currently refactoring the [Where's The Money?](https://https://github.com/matheus-omena/whereisthemoney-web-ui) project
 
 - 💬 Let's talk about **ReactJS, ReactNative, Typescript, Javascript, HTML, CSS**!
 
